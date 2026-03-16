@@ -15,3 +15,9 @@ function multiplicar(a, b){
 }
 
 console.log (multiplicar(12, 234))
+
+function dividir(a, b){
+    return a / b;
+}
+
+console.log (dividir(12, 234))
